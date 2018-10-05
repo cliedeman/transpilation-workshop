@@ -21,7 +21,7 @@ function getTargets(target) {
   }
 }
 
-const target = 'node11';
+const target = 'old';
 
 const classProperties = ['old', 'standard'].includes(target);
 
